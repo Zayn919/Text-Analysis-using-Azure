@@ -1,0 +1,13 @@
+VS Code------------
+
+1.  https://github.com/MicrosoftLearning/mslearn-ai-language
+
+
+
+
+Azure cloud -------  
+
+1.  https://portal.azure.com
+
+
+
